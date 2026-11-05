@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Executar Bot WhatsApp Web (do 80 ao fim)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/outputs/bot_whatsapp_web.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
